@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wa-mbu-a
-- 👀 I’m interested in ...C, C++ and HTML 
-- 🌱 I’m currently learning ...Java
+- 👀 I’m interested in ...PHP, HTML, CSS and Javascript 
+- 🌱 I’m currently learning ...Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
