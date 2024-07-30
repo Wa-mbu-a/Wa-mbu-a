@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wa-mbu-a
 - 👀 I’m interested in ...PHP, HTML, CSS and Javascript 
 - 🌱 I’m currently learning ...Javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Web Development
 - 📫 How to reach me ...
 
 <!---
